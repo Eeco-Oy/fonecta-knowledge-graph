@@ -1,13 +1,13 @@
 {
-  "$id": "c_tikTokURL",
+  "$id": "wp_sourceURL",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "TikTok-tilin URL",
+  "description": "",
+  "displayName": "Source URL",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "stringType": {
-      "stereotype": "URL",
-      "maxLength": 2000
+      "stereotype": "URL"
     }
   },
   "typeId": "string"

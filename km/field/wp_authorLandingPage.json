@@ -1,13 +1,13 @@
 {
-  "$id": "c_snapchatURL",
+  "$id": "wp_authorLandingPage",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Snapchat-tilin URL",
+  "description": "",
+  "displayName": "Author Landing Page",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "stringType": {
-      "stereotype": "URL",
-      "maxLength": 2000
+      "stereotype": "URL"
     }
   },
   "typeId": "string"

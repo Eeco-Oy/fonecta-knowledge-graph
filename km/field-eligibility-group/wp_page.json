@@ -1,0 +1,16 @@
+{
+  "$id": "wp_page",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Page",
+  "entityType": "wp_page",
+  "fields": [
+    "landingPageUrl",
+    "wp_activeOnAnswers",
+    "wp_author",
+    "wp_authorDescription",
+    "wp_authorLandingPage",
+    "wp_dateModified",
+    "wp_datePosted"
+  ],
+  "required": []
+}

@@ -1,14 +1,13 @@
 {
   "$schema": "https://schema.yext.com/config/km/settings/v1",
+  "primaryEntityType": "location",
   "entityTypeSettings": [
     {
       "entityType": "hotel",
-      "defaultFieldEligibilityGroup": "hotel.default",
-      "disabled": false
+      "disabled": true
     },
     {
       "entityType": "location",
-      "defaultFieldEligibilityGroup": "location.default",
       "disabled": false
     },
     {
@@ -21,12 +20,11 @@
     },
     {
       "entityType": "faq",
-      "disabled": false
+      "disabled": true
     },
     {
       "entityType": "healthcareFacility",
-      "defaultFieldEligibilityGroup": "healthcareFacility.default",
-      "disabled": false
+      "disabled": true
     },
     {
       "entityType": "event",
@@ -34,18 +32,15 @@
     },
     {
       "entityType": "hotelRoomType",
-      "defaultFieldEligibilityGroup": "hotelRoomType.default",
       "disabled": true
     },
     {
       "entityType": "atm",
-      "defaultFieldEligibilityGroup": "atm.default",
       "disabled": true
     },
     {
       "entityType": "restaurant",
-      "defaultFieldEligibilityGroup": "restaurant.default",
-      "disabled": false
+      "disabled": true
     },
     {
       "entityType": "organization",
@@ -61,11 +56,19 @@
     },
     {
       "entityType": "product",
+      "disabled": true
+    },
+    {
+      "entityType": "youtube_video",
       "disabled": false
     },
     {
       "entityType": "financialProfessional",
       "disabled": true
+    },
+    {
+      "entityType": "wp_page",
+      "disabled": false
     }
   ]
 }

@@ -1,14 +1,13 @@
 {
-  "$id": "c_whatsAppNumber",
+  "$id": "youtube_videoURL",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "WhatsApp numero",
+  "description": "",
+  "displayName": "Video URL",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "stringType": {
-      "stereotype": "SIMPLE",
-      "minLength": 1,
-      "maxLength": 20
+      "stereotype": "URL"
     }
   },
   "typeId": "string"

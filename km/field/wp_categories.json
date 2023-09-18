@@ -1,26 +1,15 @@
 {
-  "$id": "c_aliasnimet",
+  "$id": "wp_categories",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Aliasnimet",
-  "displayNameTranslation": [
-    {
-      "localeCode": "en",
-      "value": "Alias names"
-    },
-    {
-      "localeCode": "sv",
-      "value": "Alias namn"
-    }
-  ],
+  "description": "",
+  "displayName": "Categories",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
       "typeId": "string",
-      "maxLength": 5000,
       "type": {
         "stringType": {
-          "maxLength": 100000,
           "stereotype": "SIMPLE"
         }
       }

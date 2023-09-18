@@ -1,0 +1,15 @@
+{
+  "$id": "youtube_video",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "YouTube Video",
+  "entityType": "youtube_video",
+  "fields": [
+    "description",
+    "videos",
+    "youtube_channelID",
+    "youtube_publishedAt",
+    "youtube_thumbnailPhoto",
+    "youtube_videoURL"
+  ],
+  "required": []
+}
