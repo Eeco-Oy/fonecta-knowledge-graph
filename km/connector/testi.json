@@ -1,0 +1,20 @@
+{
+  "$id": "testi",
+  "$schema": "https://schema.yext.com/config/km/connector/v4",
+  "displayName": "Testi",
+  "entityTypes": [],
+  "source": {
+    "sourceConfig": {
+      "apiPushConfig": {
+        "dataFormat": "JSON",
+        "enabled": false
+      }
+    },
+    "selectors": []
+  },
+  "mappings": [],
+  "comprehensiveModeConfig": {
+    "comprehensiveSet": "ENTITIES_CREATED_BY_THIS_CONNECTOR",
+    "actionOnMissingEntities": "DELETE"
+  }
+}

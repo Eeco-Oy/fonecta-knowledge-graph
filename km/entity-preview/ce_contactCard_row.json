@@ -1,0 +1,79 @@
+{
+  "$id": "ce_contactCard_row",
+  "$schema": "https://schema.yext.com/config/km/entity-preview/v1",
+  "displayName": {
+    "default": "Contact Card",
+    "translations": []
+  },
+  "entityType": "contactCard",
+  "previewType": "ROW",
+  "previewSettings": {
+    "showEntityTypeName": true,
+    "showEntityTypeSymbol": true,
+    "fieldSettingsList": [
+      {
+        "fieldIdentifier": {
+          "fieldId": "name",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": true,
+          "showFieldName": false,
+          "lineHeight": 2
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "title",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 2
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "linkedLocation",
+          "propertyNames": []
+        },
+        "fieldKind": "ENTITY_REFERENCE",
+        "entityReferenceConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1,
+          "showEntityCount": true,
+          "showEntityName": true,
+          "showEntityId": true
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "entityId",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "headline",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_whatsAppNumber",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "WhatsApp numero",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "minLength": 1,
+      "maxLength": 20
+    }
+  },
+  "typeId": "string"
+}

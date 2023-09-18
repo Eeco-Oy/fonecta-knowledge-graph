@@ -1,0 +1,14 @@
+{
+  "$id": "c_youtubekanavanURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Youtube-kanavan URL",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 2000
+    }
+  },
+  "typeId": "string"
+}
