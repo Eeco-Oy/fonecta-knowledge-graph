@@ -1,0 +1,6 @@
+{
+  "$id": "länsiSuomi",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Länsi-Suomi",
+  "parent": "yext/root"
+}
