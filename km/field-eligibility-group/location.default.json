@@ -1,0 +1,22 @@
+{
+  "$id": "location.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Location-default",
+  "entityType": "location",
+  "fields": [
+    "c_additionalmunicipalities",
+    "c_additionalpaymentmethods",
+    "c_aliasnimet",
+    "c_alternatewebsiteURLdescription",
+    "c_alternatewebsiteUrl",
+    "c_contactFormEmail",
+    "c_membershipsAndCertifcates",
+    "c_privacyPolicyURL",
+    "c_servicelanguages",
+    "c_snapchatURL",
+    "c_tikTokURL",
+    "c_whatsAppNumber",
+    "c_youtubekanavanURL"
+  ],
+  "required": []
+}

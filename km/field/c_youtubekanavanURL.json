@@ -1,13 +1,13 @@
 {
-  "$id": "wp_authorDescription",
+  "$id": "c_youtubekanavanURL",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Author Description",
+  "displayName": "Youtube-kanavan URL",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "stringType": {
-      "stereotype": "MULTILINE"
+      "stereotype": "URL",
+      "maxLength": 2000
     }
   },
   "typeId": "string"

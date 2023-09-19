@@ -1,13 +1,13 @@
 {
-  "$id": "wp_caption",
+  "$id": "c_alternatewebsiteUrl",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Caption",
+  "displayName": "Vaihtoehtoinen verkkosivuosoite",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "stringType": {
-      "stereotype": "SIMPLE"
+      "stereotype": "URL",
+      "maxLength": 2000
     }
   },
   "typeId": "string"

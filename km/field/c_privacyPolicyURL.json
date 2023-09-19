@@ -1,13 +1,13 @@
 {
-  "$id": "wp_author",
+  "$id": "c_privacyPolicyURL",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Author",
+  "displayName": "Tietosuojalausekkeen www-osoite",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "stringType": {
-      "stereotype": "SIMPLE"
+      "stereotype": "URL",
+      "maxLength": 2000
     }
   },
   "typeId": "string"

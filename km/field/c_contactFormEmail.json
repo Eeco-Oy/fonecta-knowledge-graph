@@ -1,13 +1,13 @@
 {
-  "$id": "wp_height",
+  "$id": "c_contactFormEmail",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Height",
+  "displayName": "Yhteystietolomakkeen sähköposti",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "stringType": {
-      "stereotype": "SIMPLE"
+      "stereotype": "SIMPLE",
+      "maxLength": 100
     }
   },
   "typeId": "string"

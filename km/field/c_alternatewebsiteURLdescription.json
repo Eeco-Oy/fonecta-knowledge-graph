@@ -1,13 +1,14 @@
 {
-  "$id": "wp_width",
+  "$id": "c_alternatewebsiteURLdescription",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Width",
+  "displayName": "Vaihtoehtoisen verkkosivun kuvaus",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "stringType": {
-      "stereotype": "SIMPLE"
+      "stereotype": "SIMPLE",
+      "minLength": 3,
+      "maxLength": 30
     }
   },
   "typeId": "string"

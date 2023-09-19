@@ -1,15 +1,17 @@
 {
-  "$id": "wp_tags",
+  "$id": "c_additionalmunicipalities",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Tags",
+  "displayName": "Lisäkunnat",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
       "typeId": "string",
+      "minLength": 1,
+      "maxLength": 100,
       "type": {
         "stringType": {
+          "maxLength": 100000,
           "stereotype": "SIMPLE"
         }
       }
