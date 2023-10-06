@@ -2,6 +2,16 @@
   "$id": "c_privacyPolicyURL",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Tietosuojalausekkeen www-osoite",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Privacy policy URL"
+    },
+    {
+      "localeCode": "sv",
+      "value": "Sekretesspolicy URL"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

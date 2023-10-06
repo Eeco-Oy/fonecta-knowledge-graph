@@ -2,6 +2,16 @@
   "$id": "c_alternatewebsiteURLdescription",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Vaihtoehtoisen verkkosivun kuvaus",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Alternate website URL description"
+    },
+    {
+      "localeCode": "sv",
+      "value": "Alternativ webb URL-beskrivning"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

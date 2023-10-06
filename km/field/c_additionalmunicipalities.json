@@ -2,6 +2,16 @@
   "$id": "c_additionalmunicipalities",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Lisäkunnat",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Additional municipalities"
+    },
+    {
+      "localeCode": "sv",
+      "value": "Ytterligare kommuner"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

@@ -2,6 +2,16 @@
   "$id": "c_membershipsAndCertifcates",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Jäsenyydet ja sertifikaatit",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Memberships and certificates"
+    },
+    {
+      "localeCode": "sv",
+      "value": "Medlemskap och certifikat"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

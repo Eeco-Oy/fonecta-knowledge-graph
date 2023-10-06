@@ -1,7 +1,17 @@
 {
-  "$id": "c_youtubekanavanURL",
+  "$id": "c_youtubeChannelURL",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Youtube-kanavan URL",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Youtube channel URL"
+    },
+    {
+      "localeCode": "sv",
+      "value": "Youtube kanal URL"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

@@ -2,6 +2,16 @@
   "$id": "c_whatsAppNumber",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "WhatsApp numero",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "WhatsApp number"
+    },
+    {
+      "localeCode": "sv",
+      "value": "WhatsApp nummer"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

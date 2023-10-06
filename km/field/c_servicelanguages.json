@@ -2,6 +2,16 @@
   "$id": "c_servicelanguages",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Palvelukielet",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Service languages"
+    },
+    {
+      "localeCode": "sv",
+      "value": "Tjänstespråk"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

@@ -2,6 +2,16 @@
   "$id": "c_tikTokURL",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "TikTok-tilin URL",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "TikTok URL"
+    },
+    {
+      "localeCode": "sv",
+      "value": "TikTok URL"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

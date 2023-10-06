@@ -16,6 +16,16 @@
     },
     {
       "displayName": "Perustiedot",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Core information"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Huvudinformation"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -91,6 +101,16 @@
     },
     {
       "displayName": "Kuvat ja videot",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Photos and videos"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Foton och videor"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -119,6 +139,10 @@
         {
           "localeCode": "sv",
           "value": "Social media"
+        },
+        {
+          "localeCode": "en",
+          "value": "Social media"
         }
       ],
       "entryType": "SECTION",
@@ -133,7 +157,7 @@
           "id": "linkedInUrl"
         },
         {
-          "id": "c_youtubekanavanURL"
+          "id": "c_youtubeChannelURL"
         },
         {
           "id": "twitterHandle"
@@ -158,12 +182,26 @@
         {
           "localeCode": "sv",
           "value": "Utgivarspecifik"
+        },
+        {
+          "localeCode": "en",
+          "value": "Publisher specific"
         }
       ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Fonectan kanavat",
+      "displayNameTranslations": [
+        {
+          "localeCode": "sv",
+          "value": "Fonecta kanaler"
+        },
+        {
+          "localeCode": "en",
+          "value": "Fonecta channels"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -180,6 +218,9 @@
         },
         {
           "id": "c_alternatewebsiteUrl"
+        },
+        {
+          "id": "c_alternatewebsiteURLdescription"
         },
         {
           "id": "c_membershipsAndCertifcates"
@@ -199,7 +240,17 @@
       ]
     },
     {
-      "displayName": "Google-yritysprofiilin lisämääreet",
+      "displayName": "Google-yritysprofiilin lisätiedot",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Google Business Profile details"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Google Business Profile detaljer"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -209,6 +260,16 @@
     },
     {
       "displayName": "Google-yritysprofiilin kysymykset ja vastaukset",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Google Business Profile questions and answers"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Google Business Profile frågor och svar"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -218,6 +279,16 @@
     },
     {
       "displayName": "Kilpailija- ja hakuseurannan asetukset",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Competitor and search tracking settings"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Inställningar för konkurrent- och sökspårning"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -251,6 +322,16 @@
     },
     {
       "displayName": "Kansiot ja nimikkeet",
+      "displayNameTranslations": [
+        {
+          "localeCode": "sv",
+          "value": "Mappar och etiketter"
+        },
+        {
+          "localeCode": "en",
+          "value": "Folders and labels"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -263,6 +344,16 @@
     },
     {
       "displayName": "Muut verkkosivulinkit",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Othwer web addresses"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Andra webbadresser"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -285,6 +376,10 @@
         {
           "localeCode": "sv",
           "value": "Facebook-fält"
+        },
+        {
+          "localeCode": "en",
+          "value": "Facebook fields"
         }
       ],
       "entryType": "SECTION",
@@ -317,6 +412,16 @@
     },
     {
       "displayName": "Apple Business-tiedot",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Apple Business information"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Apple Business information"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -342,12 +447,26 @@
         {
           "localeCode": "en",
           "value": "Category specific"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Kategorispecifik"
         }
       ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Muut aukioloajat ja palvelutiedot",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Other opening hours and service information"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Övriga öppettider och serviceinformation"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -372,6 +491,16 @@
     },
     {
       "displayName": "Ruoka ja juoma",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Food and drink"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Mat och dryck"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -400,6 +529,10 @@
         {
           "localeCode": "sv",
           "value": "Inställningar"
+        },
+        {
+          "localeCode": "en",
+          "value": "Settings"
         }
       ],
       "entryType": "DIVIDER"
@@ -411,6 +544,10 @@
         {
           "localeCode": "sv",
           "value": "Review Generation"
+        },
+        {
+          "localeCode": "en",
+          "value": "Review generation"
         }
       ],
       "entryType": "SECTION",
@@ -428,10 +565,30 @@
     },
     {
       "displayName": "Vain sisäiseen käyttöön",
+      "displayNameTranslations": [
+        {
+          "localeCode": "sv",
+          "value": "Endast för internt bruk"
+        },
+        {
+          "localeCode": "en",
+          "value": "Internal use only"
+        }
+      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Tilit",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Accounts"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Konton"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -462,10 +619,26 @@
     },
     {
       "displayName": "Ei käytössä",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Not in use"
+        }
+      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Ei käytössä",
+      "displayNameTranslations": [
+        {
+          "localeCode": "en",
+          "value": "Not in use"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Inte i bruk"
+        }
+      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -578,6 +751,10 @@
         {
           "localeCode": "sv",
           "value": "Tillkommande attribut"
+        },
+        {
+          "localeCode": "en",
+          "value": "Additional Attributes"
         }
       ],
       "entryType": "SECTION",

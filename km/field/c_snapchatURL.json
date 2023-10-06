@@ -2,6 +2,16 @@
   "$id": "c_snapchatURL",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Snapchat-tilin URL",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Snapchat URL"
+    },
+    {
+      "localeCode": "sv",
+      "value": "Snapchat URL"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {

@@ -2,6 +2,16 @@
   "$id": "c_additionalpaymentmethods",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Muut maksutavat",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Additional payment methods"
+    },
+    {
+      "localeCode": "sv",
+      "value": "Ytterligare betalningsmetoder"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
